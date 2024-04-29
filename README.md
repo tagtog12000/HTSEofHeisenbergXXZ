@@ -2,6 +2,6 @@ We present a new algorithm to evaluate the grand potential at high and finite te
 
 How to run the code:
 
-Copy all files in the same directory.
-Open the Mathematica file "High temperature series expansion of 1D Hubbard model.nb".
-Execute the code by pressing "Shift+Enter".
+1. Copy all files in the same directory.
+3. Open the Mathematica file "High temperature series expansion of 1D Hubbard model.nb".
+4. Execute the code by pressing "Shift+Enter".
