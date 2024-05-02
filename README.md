@@ -3,5 +3,5 @@ We present a new algorithm to evaluate the grand potential at high and finite te
 How to run the code:
 
 1. Copy all files in the same directory.
-3. Open the Mathematica file "High temperature series expansion of 1D Hubbard model.nb".
+3. Open the Mathematica file "The free energy of the Heisenberg XXZ spin chain at high temperature.nb".
 4. Execute the code by pressing "Shift+Enter".
