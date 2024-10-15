@@ -5,5 +5,5 @@ How to run the code:
 1. Copy all files in the same directory.
 3. Open the Mathematica file "The free energy of the Heisenberg XXZ spin chain at high temperature.nb".
 4. Execute the code by pressing "Shift+Enter".
-The methods and algorithms applied here are explained in detail in my paper below:
+5. The methods and algorithms applied here are explained in detail in my paper below:
 https://www.researchgate.net/publication/380518708_Finite_and_high-temperature_series_expansion_via_many-body_perturbation_theory_application_to_Heisenberg_spin-12_XXZ_chain
